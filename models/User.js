@@ -24,13 +24,13 @@ const UserSchema = new mongoose.Schema({
     minlength: 6,
   },
   lastName: {
-    trype: String,
+    type: String,
     trim: true,
     maxLength: 20,
     default: "lastName",
   },
   location: {
-    trype: String,
+    type: String,
     trim: true,
     maxLength: 20,
     default: "my city",
