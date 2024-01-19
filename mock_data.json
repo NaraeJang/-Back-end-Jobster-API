@@ -1,0 +1,802 @@
+[
+  {
+    "company": "Rippin, Lockman and Upton",
+    "position": "Programmer Analyst IV",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-03-18T16:39:33Z"
+  },
+  {
+    "company": "Donnelly, Macejkovic and Rosenbaum",
+    "position": "Cost Accountant",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-07-08T04:18:03Z"
+  },
+  {
+    "company": "Cruickshank LLC",
+    "position": "Marketing Assistant",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-06-01T13:49:19Z"
+  },
+  {
+    "company": "Jones-Prohaska",
+    "position": "Assistant Media Planner",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-12-29T12:33:47Z"
+  },
+  {
+    "company": "Crist-White",
+    "position": "Account Representative III",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-02-20T06:49:14Z"
+  },
+  {
+    "company": "Lockman-Olson",
+    "position": "Help Desk Operator",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-07-29T05:53:21Z"
+  },
+  {
+    "company": "Ernser Group",
+    "position": "Chemical Engineer",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-06-17T09:58:35Z"
+  },
+  {
+    "company": "Lynch LLC",
+    "position": "Budget/Accounting Analyst II",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-01-25T12:31:19Z"
+  },
+  {
+    "company": "Ferry-Skiles",
+    "position": "Office Assistant IV",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2022-12-25T03:34:31Z"
+  },
+  {
+    "company": "Hegmann-Dooley",
+    "position": "Web Developer II",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-04-30T13:09:54Z"
+  },
+  {
+    "company": "Beer and Sons",
+    "position": "Dental Hygienist",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2022-12-11T12:21:42Z"
+  },
+  {
+    "company": "Kuhlman LLC",
+    "position": "Executive Secretary",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-07-14T16:16:05Z"
+  },
+  {
+    "company": "Hand-Ruecker",
+    "position": "VP Product Management",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-12-30T16:02:51Z"
+  },
+  {
+    "company": "Ruecker Group",
+    "position": "Occupational Therapist",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-09-02T02:19:40Z"
+  },
+  {
+    "company": "Larkin, O'Connell and McClure",
+    "position": "Assistant Media Planner",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-04-21T05:34:54Z"
+  },
+  {
+    "company": "Wuckert, Denesik and Considine",
+    "position": "Cost Accountant",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-05-20T10:11:38Z"
+  },
+  {
+    "company": "Jerde LLC",
+    "position": "Research Assistant II",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-09-12T06:25:33Z"
+  },
+  {
+    "company": "Weber, Bechtelar and Predovic",
+    "position": "Systems Administrator III",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2022-12-09T17:13:52Z"
+  },
+  {
+    "company": "Howell-Stehr",
+    "position": "Operator",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-06-18T07:34:54Z"
+  },
+  {
+    "company": "Champlin and Sons",
+    "position": "Computer Systems Analyst III",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-11-07T12:17:17Z"
+  },
+  {
+    "company": "McDermott and Sons",
+    "position": "Health Coach IV",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-06-30T18:38:11Z"
+  },
+  {
+    "company": "Rolfson Group",
+    "position": "Media Manager IV",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-11-24T13:38:37Z"
+  },
+  {
+    "company": "Kuhn, Hegmann and Kling",
+    "position": "Senior Editor",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-04-13T09:28:37Z"
+  },
+  {
+    "company": "Farrell LLC",
+    "position": "Staff Accountant IV",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-05-17T20:03:19Z"
+  },
+  {
+    "company": "Hartmann-Klein",
+    "position": "Payment Adjustment Coordinator",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-08-20T06:14:54Z"
+  },
+  {
+    "company": "Doyle, Muller and Sipes",
+    "position": "Dental Hygienist",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-02-10T13:34:45Z"
+  },
+  {
+    "company": "Boyer-Ebert",
+    "position": "Financial Advisor",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-12-13T15:49:29Z"
+  },
+  {
+    "company": "Waters, VonRueden and Wiegand",
+    "position": "Structural Analysis Engineer",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-03-04T20:33:50Z"
+  },
+  {
+    "company": "Romaguera and Sons",
+    "position": "Chemical Engineer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-01-28T13:22:05Z"
+  },
+  {
+    "company": "Schimmel Inc",
+    "position": "Editor",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-08-17T18:25:57Z"
+  },
+  {
+    "company": "Klocko-Wiza",
+    "position": "Graphic Designer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-12-01T09:11:19Z"
+  },
+  {
+    "company": "Legros-Bins",
+    "position": "Chief Design Engineer",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-09-01T12:46:34Z"
+  },
+  {
+    "company": "Kreiger-Cummerata",
+    "position": "Environmental Specialist",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-05-23T14:06:40Z"
+  },
+  {
+    "company": "Purdy, Gleason and Satterfield",
+    "position": "Senior Developer",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-02-05T09:02:43Z"
+  },
+  {
+    "company": "Hand, Runte and Gorczany",
+    "position": "Senior Cost Accountant",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-10-03T00:54:23Z"
+  },
+  {
+    "company": "Auer-Windler",
+    "position": "Tax Accountant",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-01-26T20:48:18Z"
+  },
+  {
+    "company": "Dickens Inc",
+    "position": "VP Marketing",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-01-30T03:38:01Z"
+  },
+  {
+    "company": "Davis-O'Conner",
+    "position": "VP Product Management",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-10-22T22:49:20Z"
+  },
+  {
+    "company": "Ritchie, Kling and Schiller",
+    "position": "Quality Engineer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-02-01T15:01:47Z"
+  },
+  {
+    "company": "Little Group",
+    "position": "Quality Engineer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-06-19T13:01:32Z"
+  },
+  {
+    "company": "O'Keefe, Denesik and Turcotte",
+    "position": "Senior Cost Accountant",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-04-17T15:22:16Z"
+  },
+  {
+    "company": "Lang, Predovic and Skiles",
+    "position": "Speech Pathologist",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-02-09T14:28:51Z"
+  },
+  {
+    "company": "Hamill-Swift",
+    "position": "Media Manager I",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2022-12-16T18:03:47Z"
+  },
+  {
+    "company": "Dicki LLC",
+    "position": "Payment Adjustment Coordinator",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-06-18T21:46:01Z"
+  },
+  {
+    "company": "Schmidt, Sporer and Konopelski",
+    "position": "Geologist I",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-03-03T13:32:39Z"
+  },
+  {
+    "company": "Friesen, Zemlak and Beer",
+    "position": "Information Systems Manager",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-10-05T18:17:58Z"
+  },
+  {
+    "company": "Runolfsdottir LLC",
+    "position": "Analyst Programmer",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-07-07T09:21:05Z"
+  },
+  {
+    "company": "Conroy LLC",
+    "position": "Senior Quality Engineer",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-12-28T22:52:10Z"
+  },
+  {
+    "company": "Herman-Klein",
+    "position": "Programmer Analyst II",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-03-15T05:45:24Z"
+  },
+  {
+    "company": "Kunze and Sons",
+    "position": "Junior Executive",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-10-16T00:20:02Z"
+  },
+  {
+    "company": "Yost, Vandervort and McGlynn",
+    "position": "Research Nurse",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-11-23T16:13:42Z"
+  },
+  {
+    "company": "Hilll LLC",
+    "position": "Quality Control Specialist",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-12-09T02:53:13Z"
+  },
+  {
+    "company": "O'Keefe-Larson",
+    "position": "Information Systems Manager",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-01-05T05:47:15Z"
+  },
+  {
+    "company": "Huel Group",
+    "position": "Food Chemist",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-06-12T08:46:19Z"
+  },
+  {
+    "company": "Mante-Leannon",
+    "position": "Automation Specialist I",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-07-17T21:17:14Z"
+  },
+  {
+    "company": "Vandervort, Mitchell and Fay",
+    "position": "Social Worker",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-04-26T16:42:46Z"
+  },
+  {
+    "company": "Konopelski-Franecki",
+    "position": "Chief Design Engineer",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-08-11T05:39:14Z"
+  },
+  {
+    "company": "Bahringer-Douglas",
+    "position": "Research Assistant IV",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-10-25T13:47:45Z"
+  },
+  {
+    "company": "Nitzsche LLC",
+    "position": "Electrical Engineer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2024-01-14T22:58:46Z"
+  },
+  {
+    "company": "Rosenbaum-Flatley",
+    "position": "Tax Accountant",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-02-26T15:42:01Z"
+  },
+  {
+    "company": "Hilll-Murazik",
+    "position": "Health Coach IV",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-08-16T09:46:41Z"
+  },
+  {
+    "company": "Cassin Group",
+    "position": "Account Coordinator",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-05-30T21:43:05Z"
+  },
+  {
+    "company": "Pacocha-King",
+    "position": "Human Resources Assistant II",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2022-12-30T10:00:31Z"
+  },
+  {
+    "company": "Lockman-Corwin",
+    "position": "Design Engineer",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-07-12T07:01:49Z"
+  },
+  {
+    "company": "Schulist-Bashirian",
+    "position": "Occupational Therapist",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-03-28T00:08:53Z"
+  },
+  {
+    "company": "Doyle-Fadel",
+    "position": "Administrative Officer",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-04-06T02:43:48Z"
+  },
+  {
+    "company": "Barrows, Adams and Gislason",
+    "position": "Staff Accountant I",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-07-22T00:29:22Z"
+  },
+  {
+    "company": "Yost LLC",
+    "position": "Web Developer IV",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2022-12-31T05:37:06Z"
+  },
+  {
+    "company": "Brakus, Jacobi and Lakin",
+    "position": "VP Accounting",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-08-16T12:31:04Z"
+  },
+  {
+    "company": "Towne-Schmeler",
+    "position": "Dental Hygienist",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-03-29T17:22:31Z"
+  },
+  {
+    "company": "Kunze-Hoeger",
+    "position": "Associate Professor",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-04-20T20:36:08Z"
+  },
+  {
+    "company": "Cole LLC",
+    "position": "Safety Technician III",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-03-17T14:02:50Z"
+  },
+  {
+    "company": "Romaguera Inc",
+    "position": "Nurse",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2022-12-26T12:24:34Z"
+  },
+  {
+    "company": "Weber Group",
+    "position": "Account Executive",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-03-28T01:44:33Z"
+  },
+  {
+    "company": "Farrell, Bayer and Keeling",
+    "position": "Senior Editor",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-01-10T10:06:42Z"
+  },
+  {
+    "company": "Flatley-Rippin",
+    "position": "Marketing Manager",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-01-14T17:30:55Z"
+  },
+  {
+    "company": "Braun, Konopelski and Bailey",
+    "position": "Staff Accountant III",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-04-19T07:41:53Z"
+  },
+  {
+    "company": "Koepp LLC",
+    "position": "Teacher",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-03-10T01:49:47Z"
+  },
+  {
+    "company": "Kovacek, Armstrong and Jacobi",
+    "position": "Teacher",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-11-30T05:19:31Z"
+  },
+  {
+    "company": "VonRueden and Sons",
+    "position": "Social Worker",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-06-09T17:18:46Z"
+  },
+  {
+    "company": "Bailey, Kutch and Goyette",
+    "position": "Software Engineer I",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-12-02T06:06:12Z"
+  },
+  {
+    "company": "Friesen, Monahan and Haag",
+    "position": "Nurse",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-08-29T06:56:54Z"
+  },
+  {
+    "company": "Wolff LLC",
+    "position": "Senior Sales Associate",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2022-12-10T01:32:14Z"
+  },
+  {
+    "company": "Reichert-Walker",
+    "position": "Clinical Specialist",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-10-02T11:32:03Z"
+  },
+  {
+    "company": "Denesik-Senger",
+    "position": "Design Engineer",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-08-04T18:28:00Z"
+  },
+  {
+    "company": "Abshire, Heaney and Muller",
+    "position": "Tax Accountant",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-08-22T06:56:20Z"
+  },
+  {
+    "company": "Altenwerth Group",
+    "position": "Database Administrator II",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-12-06T23:05:29Z"
+  },
+  {
+    "company": "Halvorson, Robel and Ferry",
+    "position": "Engineer I",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-06-02T17:08:35Z"
+  },
+  {
+    "company": "Ullrich Inc",
+    "position": "Research Nurse",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-02-17T07:37:23Z"
+  },
+  {
+    "company": "Aufderhar-Runolfsdottir",
+    "position": "Media Manager I",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2022-12-26T07:33:10Z"
+  },
+  {
+    "company": "Bradtke Inc",
+    "position": "Staff Scientist",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-08-02T05:22:58Z"
+  },
+  {
+    "company": "Cruickshank, D'Amore and Reilly",
+    "position": "Operator",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-04-30T05:48:40Z"
+  },
+  {
+    "company": "Considine, Hauck and Kshlerin",
+    "position": "VP Sales",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-05-02T17:24:26Z"
+  },
+  {
+    "company": "Crooks-Roberts",
+    "position": "Geological Engineer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-05-01T10:34:20Z"
+  },
+  {
+    "company": "Funk-Frami",
+    "position": "Paralegal",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-11-07T18:43:22Z"
+  },
+  {
+    "company": "Heaney, Schroeder and Conn",
+    "position": "Quality Engineer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-08-03T09:32:50Z"
+  },
+  {
+    "company": "Funk Inc",
+    "position": "Marketing Assistant",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-06-11T14:36:53Z"
+  },
+  {
+    "company": "Barton-Sauer",
+    "position": "Office Assistant I",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-09-30T13:19:52Z"
+  },
+  {
+    "company": "Grady Group",
+    "position": "Internal Auditor",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-04-29T11:48:24Z"
+  },
+  {
+    "company": "Kertzmann LLC",
+    "position": "Senior Financial Analyst",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "65aad261e7b90635d19b0a45",
+    "createdAt": "2023-08-18T04:42:43Z"
+  }
+]
