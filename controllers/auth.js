@@ -33,6 +33,7 @@ const login = async (req, res) => {
   }
   // compare password
   const token = user.createJWT();
+
   res.status(StatusCodes.OK).json({
     user: {
       email: user.email,
@@ -44,7 +45,13 @@ const login = async (req, res) => {
   });
 };
 
+const updateUser = async (req, res) => {
+  console.log(req.user);
+  console.log(req.body);
+};
+
 module.exports = {
   register,
   login,
+  updateUser,
 };
