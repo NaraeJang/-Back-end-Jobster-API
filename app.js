@@ -22,6 +22,7 @@ const notFoundMiddleware = require("./middleware/not-found");
 const errorHandlerMiddleware = require("./middleware/error-handler");
 
 // front-end
+app.set("trust proxy", 1); // it's for heroku.
 app.use(express.static(path.resolve(__dirname, "./client/build")));
 
 // securities
