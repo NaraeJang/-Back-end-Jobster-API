@@ -13,6 +13,14 @@ const getAllJobs = async (req, res) => {
     queryObject.position = { $regex: search, $options: "i" }; // regex enables to search any positions that has words in search param.
   } // if there is no words in search params, we don't put in our params.
 
+  if (status && status !== "all") {
+    queryObject.status = status;
+  }
+
+  if (jobType && jobType !== "all") {
+    queryObject.jobType = jobType;
+  }
+
   let result = Job.find(queryObject);
 
   const jobs = await result; // 3. keep await at the end, so that we can have divided logics.
