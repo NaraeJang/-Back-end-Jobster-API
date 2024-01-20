@@ -9,10 +9,15 @@ const getAllJobs = async (req, res) => {
     createdBy: req.user.userId,
   }; // 2. find the user id who valid for the job.
 
-  const result = Job.find(queryObject);
+  if (search) {
+    queryObject.position = { $regex: search, $options: "i" };
+  } // if there is no words in search params, we don't put in our params.
+
+  let result = Job.find(queryObject);
+
   const jobs = await result; // 3. keep await at the end, so that we can have divided logics.
 
-  res.status(StatusCodes.OK).json({ jobs, count: jobs.length });
+  res.status(StatusCodes.OK).json({ jobs });
 };
 
 const getJob = async (req, res) => {
