@@ -10,7 +10,7 @@ const getAllJobs = async (req, res) => {
   }; // 2. find the user id who valid for the job.
 
   if (search) {
-    queryObject.position = { $regex: search, $options: "i" };
+    queryObject.position = { $regex: search, $options: "i" }; // regex enables to search any positions that has words in search param.
   } // if there is no words in search params, we don't put in our params.
 
   let result = Job.find(queryObject);
